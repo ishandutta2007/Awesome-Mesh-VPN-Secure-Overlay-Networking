@@ -78,7 +78,7 @@ The sector displays a **moderately fragmented and bifurcated market dynamic**: t
 
 ## 💻 Open-Source GitHub Projects
 
-*Leading open-source WireGuard mesh platforms, self-hosted control planes, reverse tunnels, and overlay networking protocols sorted by GitHub Stars_Count (descending).*
+*Leading open-source WireGuard mesh platforms, self-hosted control planes, reverse tunnels, and overlay networking protocols sorted by GitHub_Stars_Count (descending).*
 
 | Project | GitHub_Stars | Language | Key Focus & Description |
 | :--- | :--- | :--- | :--- |
